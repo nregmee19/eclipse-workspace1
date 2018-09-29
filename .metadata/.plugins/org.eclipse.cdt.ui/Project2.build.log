@@ -1,0 +1,6 @@
+13:57:27 **** Build of configuration Default for project Project2 ****
+make all 
+make: *** No rule to make target `all'.  Stop.
+
+13:57:28 Build Finished (took 1s.464ms)
+

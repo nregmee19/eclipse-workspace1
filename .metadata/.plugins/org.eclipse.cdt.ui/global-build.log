@@ -1,0 +1,12 @@
+g++ -o myproject.exe "src\\myproject.o" 
+
+21:45:40 Build Finished (took 10s.404ms)
+
+Info: Nothing to build for myproject
+13:57:27 **** Build of configuration Default for project Project2 ****
+make all 
+make: *** No rule to make target `all'.  Stop.
+13:57:30 **** Rebuild of configuration Debug for project myproject ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\myproject.o" "..\\src\\myproject.cpp" 
+g++ -o myproject.exe "src\\myproject.o" 

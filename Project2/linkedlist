@@ -1,0 +1,33 @@
+//
+//  StudentRecord.cpp
+//  Assignment1
+// Class File for student class
+//
+//  Created by Niraj Regmee on 9/18/17.
+//
+//
+
+#include "StudentRecord.h"
+#include <iostream>
+
+StudentRecord::StudentRecord(){
+    studentName = "Niraj";
+    studentID ="";
+    studentAddress ="";
+    studentGPA = 0;
+}
+StudentRecord::StudentRecord(string name, string ID,string address,double GPA){
+    studentName = name;
+    studentID = ID;
+    studentAddress = address;
+    studentGPA = GPA;
+}
+
+void StudentRecord::display(){
+    cout << "Name: "<<studentName<<endl;
+    cout << "ID: "<<studentID<<endl;
+    cout << "Address: "<<studentAddress<<endl;
+    cout << "GPA: "<<studentGPA<<endl;
+    cout<<"******************************"<<endl;
+    
+}

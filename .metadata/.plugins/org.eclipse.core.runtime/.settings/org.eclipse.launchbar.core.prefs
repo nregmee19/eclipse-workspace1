@@ -1,0 +1,17 @@
+LaunchTargetManager/configs/BankRunner=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/CalculatorView=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Main=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/PrimeNumber=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/binaryTree=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/launchConfiguration=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:binaryTree,org.eclipse.launchbar.core.descriptorType.default\:Main,org.eclipse.launchbar.core.descriptorType.default\:PrimeNumber,org.eclipse.launchbar.core.descriptorType.default\:launchConfiguration,org.eclipse.launchbar.core.descriptorType.default\:CalculatorView,org.eclipse.launchbar.core.descriptorType.default\:BankRunner
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:BankRunner/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:BankRunner/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Main/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Main/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:binaryTree/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:binaryTree/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
